@@ -1,0 +1,7 @@
+mlops/
+__pycache__/
+.pytest_cache/
+.git/
+.venv/
+venv/
+train.csv
